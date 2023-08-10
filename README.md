@@ -1,6 +1,4 @@
-# bd_turmab
-Banco de Dados Turma B
-
+Banco de Dados
 
 https://ares.hostsrv.org/phpMyAdmin/index.php
 
