@@ -1,5 +1,5 @@
 CREATE TABLE clientes_milenio(
-	id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
     nome VARCHAR(100) NOT NULL,
     cpf_cnpj CHAR(20) NOT NULL,
     rg VARCHAR(15) NOT NULL,
@@ -18,6 +18,3 @@ CREATE TABLE clientes_milenio(
     sexo CHAR(1) NOT NULL,
     genero VARCHAR(15)
 );
-
-
-
